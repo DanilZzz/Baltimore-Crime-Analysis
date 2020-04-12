@@ -6,8 +6,9 @@ Let's take a look at data and discover answers to questions.
 
 # Questions
 1. What day was most filled with crimes? Why?
-2. What crime is most offten?
-3. What is the median number of crimes per day?
-4. What is the homicide level?
-5. What neighborhoods would be better to avoid visiting in Baltimore?
+2. What day was with minimum number of crimes? Why?
+3. What crime is most offten?
+4. What is the median number of crimes per day?
+5. What is the homicide level?
+6. What neighborhoods would be better to avoid visiting in Baltimore?
 
